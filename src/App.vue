@@ -11,6 +11,7 @@
   </v-app>
 </template>
 
+
 <script>
 import HeaderComponent from './components/HeaderComponent.vue';
 
